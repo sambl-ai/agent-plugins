@@ -1,0 +1,34 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sambl",
+  "version": "0.1.8",
+  "description": "Sambl MCP connection and diagnostic skill for Codex.",
+  "author": {
+    "name": "Sambl"
+  },
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/sambl-setup/SKILL.md",
+      "interface": {
+        "displayName": "Sambl",
+        "shortDescription": "Connect to Sambl MCP",
+        "longDescription": "Connect to Sambl MCP and verify the selected environment with a read-only diagnostic.",
+        "developerName": "Sambl",
+        "category": "Productivity",
+        "websiteURL": "https://sambl.ai/",
+        "supportURL": "https://sambl.ai/",
+        "privacyPolicyURL": "https://sambl.ai/policy",
+        "termsOfServiceURL": "https://sambl.ai/terms",
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
+        "brandColor": "#E24A3C",
+        "composerIcon": "./assets/sambl-mark.png",
+        "composerIconDark": "./assets/sambl-mark.png",
+        "logo": "./assets/sambl-mark.png",
+        "logoDark": "./assets/sambl-mark.png"
+      }
+    }
+  }
+}

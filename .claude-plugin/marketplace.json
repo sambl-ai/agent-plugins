@@ -1,0 +1,16 @@
+{
+  "name": "sambl",
+  "owner": {
+    "name": "Sambl"
+  },
+  "metadata": {
+    "description": "Sambl plugins for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "sambl",
+      "source": "./claude",
+      "description": "Sambl UI Kit guidance and MCP workflows"
+    }
+  ]
+}

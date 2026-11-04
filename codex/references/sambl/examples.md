@@ -1,0 +1,3 @@
+# Examples
+Sambl supports two example screens: Sign In, a sign-in screen, and Dashboard, an example screen from a product dashboard. The user can name the screen without knowing its component inventory or expected layout.
+For a generation request call get_example_package without screen and follow its complete entry_skill result. That entry is the sole owner of selection, file admission, adaptation consent, continuation and completion. This short guide is documentation, not a second entry or a prerequisite read. Do not load it again when the entry is already present.
