@@ -1,7 +1,7 @@
 {
   "name": "sambl",
-  "version": "0.1.9",
-  "description": "Sambl UI Kit skills, local product references and MCP workflows for Claude Desktop, Cowork and Claude Code.",
+  "version": "0.1.10",
+  "description": "Sambl UI Kit knowledge, style adaptation and exact color calculations for Claude Desktop, Cowork and Claude Code.",
   "author": {
     "name": "Sambl"
   }

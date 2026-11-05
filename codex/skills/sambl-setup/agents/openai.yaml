@@ -1,8 +1,0 @@
-interface:
-  display_name: "Sambl Setup"
-  short_description: "Prepare Sambl access, Figma connection and target"
-  icon_small: "../../assets/sambl-mark.png"
-  icon_large: "../../assets/sambl-mark.png"
-  brand_color: "#E24A3C"
-  default_prompt: "Use $sambl:sambl-setup to prepare the connections and working
-    file needed for my Sambl task."

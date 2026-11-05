@@ -1,20 +1,19 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "sambl",
-  "version": "0.1.9",
-  "description": "Sambl MCP connection and diagnostic skill for Codex.",
+  "version": "0.1.10",
+  "description": "Sambl UI Kit knowledge, style adaptation and exact color calculations for Codex.",
   "author": {
     "name": "Sambl"
   },
   "extensions": {
     "com.openai": {
-      "onboardingSkill": "./skills/sambl-setup/SKILL.md",
       "interface": {
         "displayName": "Sambl",
-        "shortDescription": "Connect to Sambl MCP",
-        "longDescription": "Connect to Sambl MCP and verify the selected environment with a read-only diagnostic.",
+        "shortDescription": "Work with Sambl UI Kit",
+        "longDescription": "Use Sambl knowledge, style adaptation, exact color calculations and optional kit preparation through your Sambl and Figma connections.",
         "developerName": "Sambl",
-        "category": "Productivity",
+        "category": "Creativity",
         "websiteURL": "https://sambl.ai/",
         "supportURL": "https://sambl.ai/",
         "privacyPolicyURL": "https://sambl.ai/policy",

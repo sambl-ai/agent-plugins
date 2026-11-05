@@ -4,9 +4,11 @@ This repository is the Sambl custom marketplace for Codex, Claude Desktop,
 and Claude Code. In the CLI commands, `sambl@sambl` means the **Sambl** plugin
 from the **Sambl** marketplace.
 
-Use Sambl with your Sambl UI Kit in Figma. Ask your agent to configure themes,
-platforms, and palettes, adjust semantic colors, or build a Sign In or Dashboard
-example with the kit's components and styles.
+Use Sambl with your Sambl UI Kit in Figma. The `sambl` skill connects kit
+knowledge, color calculations and optional preparation to your design task.
+Use `sambl-style-adaptation` to adapt the kit to screenshots or a named product
+style. Your agent uses its Figma tools to inspect and edit the file; the
+available connection determines which actions it can perform.
 
 ## Install in Codex
 

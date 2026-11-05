@@ -1,8 +1,0 @@
-interface:
-  display_name: "Sambl Plugin Check"
-  short_description: "Check plugin loading and MCP connectivity"
-  icon_small: "../../assets/sambl-mark.png"
-  icon_large: "../../assets/sambl-mark.png"
-  brand_color: "#E24A3C"
-  default_prompt: "Use $sambl:sambl-check to verify that the Sambl plugin skill is
-    available, then check its MCP connection."
