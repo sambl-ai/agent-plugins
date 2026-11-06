@@ -19,6 +19,8 @@ When asked to prepare a kit, use documented logical Slot intent to restore recom
 
 ## Palette and semantic choices
 
+For kit palette or brand setup, read the palette role guidance linked from the current index before choosing rows or calculating values; use that shared guidance for reuse, retention and retirement decisions.
+
 Use `calculate_palette` for exact values and recipes from an orientation seed, numerical profile and theme. Follow current alias chains, actual host colors and alpha ownership; similar colors need not have the same role. Use `evaluate_contrast` for supplied actual colors when needed.
 
 Explain the design consequences of changing the palette and of any proposed bounded semantic overrides. Show palette names with their values. Resolve only a missing meaningful choice: Keep makes no hidden semantic or on-content assignment writes; a selected subset changes only those assignments, preserving the other alias relationships. An already explicit choice does not need another Apply confirmation.
