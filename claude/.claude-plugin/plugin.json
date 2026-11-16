@@ -1,8 +1,11 @@
 {
   "name": "sambl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sambl UI Kit knowledge, style adaptation and exact color calculations for Claude Desktop, Cowork and Claude Code.",
   "author": {
     "name": "Sambl"
-  }
+  },
+  "license": "MIT",
+  "icon": "./assets/sambl-mark.png",
+  "privacyPolicyUrl": "https://sambl.ai/policy"
 }
