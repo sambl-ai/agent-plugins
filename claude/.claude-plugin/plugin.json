@@ -1,10 +1,13 @@
 {
   "name": "sambl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sambl UI Kit knowledge, style adaptation and exact color calculations for Claude Desktop, Cowork and Claude Code.",
   "author": {
     "name": "Sambl"
   },
+  "homepage": "https://sambl.ai/",
+  "repository": "https://github.com/sambl-ai/agent-plugins",
+  "documentationUrl": "https://github.com/sambl-ai/agent-plugins#readme",
   "license": "MIT",
   "icon": "./assets/sambl-mark.png",
   "privacyPolicyUrl": "https://sambl.ai/policy"
